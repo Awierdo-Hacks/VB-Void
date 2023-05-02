@@ -1,5 +1,6 @@
 Namespace Sortfunctions
 
+    'slaagt de kleinst gevonden getal tot nu toe op en vergelijkt die met de rest van de array indien nog kleiner getal gevonden word deze opgeslagen en daarna verwisseld met de plaats in de array adhv de for i loop
     Sub SelectionSort(ByVal arr As Integer())
         ' The outer loop iterates over each element in the array, up to the second to last element.
         For i As Integer = 0 To arr.Length - 2
@@ -23,7 +24,7 @@ Namespace Sortfunctions
         Next i
     End Sub
 
-
+    'paren van 2 vergelijken met elkaar dan opnieuw
     Sub BubbleSort(ByVal arr As Integer())
         ' The outer loop iterates over each element in the array, up to the second to last element.
         For i As Integer = 0 To arr.Length - 2
@@ -39,6 +40,7 @@ Namespace Sortfunctions
         Next i
     End Sub
 
+    'getal met alle getallen van links vergelijken als chosen getal kleiner is van plaats verwisselen
     Sub InsertionSort(ByVal arr As Integer())
         ' Loop through each element in the array
         For i As Integer = 1 To arr.Length - 1
@@ -57,6 +59,7 @@ Namespace Sortfunctions
         Next i
     End Sub
 
+    'is eigenlijk een bubble sort maar gaat ipv links nr rechts nu links nr rechts dan rechts naar links
     Sub RippleSort(ByVal arr As Integer())
         Dim leftIndex As Integer = 0 ' The leftmost index of the unsorted subarray
         Dim rightIndex As Integer = arr.Length - 1 ' The rightmost index of the unsorted subarray
@@ -91,6 +94,64 @@ Namespace Sortfunctions
         arr(j) = temp
     End Sub
 
+    'Mergesort -------------------
+
+    Sub MergeSort(ByRef array() As Integer)
+        Dim length As Integer = array.Length
+        If length <= 1 Then Return 'base case
+
+        Dim middle As Integer = length \ 2
+        Dim leftArray(middle - 1) As Integer
+        Dim rightArray(length - middle - 1) As Integer
+
+        Dim i As Integer = 0 'left array
+        Dim j As Integer = 0 'right array
+
+        For Each element In array
+            If i < middle Then
+                leftArray(i) = element
+            Else
+                rightArray(j) = element
+                j += 1
+            End If
+            i += 1
+        Next
+
+        MergeSort(leftArray)
+        MergeSort(rightArray)
+        Merge(leftArray, rightArray, array)
+    End Sub
+
+    Sub Merge(ByVal leftArray() As Integer, ByVal rightArray() As Integer, ByRef array() As Integer)
+        Dim leftSize As Integer = leftArray.Length
+        Dim rightSize As Integer = rightArray.Length
+        Dim i As Integer = 0
+        Dim l As Integer = 0
+        Dim r As Integer = 0 'indices
+
+        'check the conditions for merging
+        While l < leftSize AndAlso r < rightSize
+            If leftArray(l) < rightArray(r) Then
+                array(i) = leftArray(l)
+                i += 1
+                l += 1
+            Else
+                array(i) = rightArray(r)
+                i += 1
+                r += 1
+            End If
+        End While
+        While l < leftSize
+            array(i) = leftArray(l)
+            i += 1
+            l += 1
+        End While
+        While r < rightSize
+            array(i) = rightArray(r)
+            i += 1
+            r += 1
+        End While
+    End Sub
 
 
 
