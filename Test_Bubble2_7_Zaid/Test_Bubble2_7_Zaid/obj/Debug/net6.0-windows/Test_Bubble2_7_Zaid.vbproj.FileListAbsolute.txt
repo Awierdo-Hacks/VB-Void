@@ -1,0 +1,17 @@
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\bin\Debug\net6.0-windows\Test_Bubble2_7_Zaid.exe
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\bin\Debug\net6.0-windows\Test_Bubble2_7_Zaid.deps.json
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\bin\Debug\net6.0-windows\Test_Bubble2_7_Zaid.runtimeconfig.json
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\bin\Debug\net6.0-windows\Test_Bubble2_7_Zaid.dll
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\bin\Debug\net6.0-windows\Test_Bubble2_7_Zaid.pdb
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\obj\Debug\net6.0-windows\Test_Bubble2_7_Zaid.vbproj.AssemblyReference.cache
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\obj\Debug\net6.0-windows\Test_Bubble2_7_Zaid.Form1.resources
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\obj\Debug\net6.0-windows\Test_Bubble2_7_Zaid.vbproj.GenerateResource.cache
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\obj\Debug\net6.0-windows\Test_Bubble2_7_Zaid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\obj\Debug\net6.0-windows\Test_Bubble2_7_Zaid.AssemblyInfoInputs.cache
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\obj\Debug\net6.0-windows\Test_Bubble2_7_Zaid.AssemblyInfo.vb
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\obj\Debug\net6.0-windows\Test_Bubble2_7_Zaid.vbproj.CoreCompileInputs.cache
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\obj\Debug\net6.0-windows\Test_Bubble2_7_Zaid.dll
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\obj\Debug\net6.0-windows\refint\Test_Bubble2_7_Zaid.dll
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\obj\Debug\net6.0-windows\Test_Bubble2_7_Zaid.pdb
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\obj\Debug\net6.0-windows\Test_Bubble2_7_Zaid.genruntimeconfig.cache
+C:\Users\21516\source\repos\Test_Bubble2_7_Zaid\Test_Bubble2_7_Zaid\obj\Debug\net6.0-windows\ref\Test_Bubble2_7_Zaid.dll

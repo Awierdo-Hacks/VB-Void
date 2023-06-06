@@ -1,0 +1,16 @@
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\obj\Debug\MF_PCWIZ_7_Zaid.vbproj.AssemblyReference.cache
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\obj\Debug\MF_PCWIZ_7_Zaid.vbproj.SuggestedBindingRedirects.cache
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\obj\Debug\MF_PCWIZ_7_Zaid.Resources.resources
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\obj\Debug\MF_PCWIZ_7_Zaid.Startscherm.resources
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\obj\Debug\MF_PCWIZ_7_Zaid.vbproj.GenerateResource.cache
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\obj\Debug\MF_PCWIZ_7_Zaid.vbproj.CoreCompileInputs.cache
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\bin\Debug\MF_PCWIZ_7_Zaid.exe.config
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\bin\Debug\MF_PCWIZ_7_Zaid.exe
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\bin\Debug\MF_PCWIZ_7_Zaid.pdb
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\bin\Debug\MF_PCWIZ_7_Zaid.xml
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\obj\Debug\MF_PCWIZ_7_Zaid.exe
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\obj\Debug\MF_PCWIZ_7_Zaid.xml
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\obj\Debug\MF_PCWIZ_7_Zaid.pdb
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\obj\Debug\MF_PCWIZ_7_Zaid.frmcpu.resources
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\obj\Debug\MF_PCWIZ_7_Zaid.frmgeheugen.resources
+C:\Users\21516\source\repos\MF_PCWIZ_7_Zaid\MF_PCWIZ_7_Zaid\obj\Debug\MF_PCWIZ_7_Zaid.frmssd.resources
